@@ -1,0 +1,18 @@
+img{
+    width: 25%;
+    height: 30%;
+    margin-left: 70px;
+    margin-bottom: 20px;
+}
+
+.title{
+    margin-left: 70px;
+
+}
+
+.red{
+    color: red;
+    background-color: silver;
+    display: inline-block;
+    font-weight: bold;
+}
